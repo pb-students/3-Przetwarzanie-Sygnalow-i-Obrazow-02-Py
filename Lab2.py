@@ -165,6 +165,7 @@ x = np.arange(0, recording.size/framerate, 1/framerate)
 
 noise = np.random.normal(0, 1, recording.size)
 
+# Powinno się to zrobić za pomocą formuły na decybele i jak ktoś zechciałby to zrobić to byłoby miło gdyby zrobił pull request
 mixed = recording + noise/(5*SNR)
 
 
