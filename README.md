@@ -9,4 +9,4 @@ Już ogarnąłem w jak w miarę sensowny sposób dzielić się kodem :>
 
 Treść zadań:
 
-![alt text](Screen%20tre%C5%9Bci%20zada%C5%84.PNG?raw=true)
+![alt text](Screen.PNG?raw=true)
